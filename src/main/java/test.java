@@ -6,6 +6,7 @@ public class test {
         System.out.println("test");
         System.out.println("test 입니다.");
         System.out.println("test1 입니다.");
+        System.out.println("test2 입니다.");
     }
 
 }
